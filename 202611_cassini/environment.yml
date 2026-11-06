@@ -1,0 +1,48 @@
+name: apex_env
+channels:
+  - conda-forge
+  - nodefaults
+dependencies:
+  # --- Core Native & Compiled Binaries ---
+  - python=3.11
+  - ipykernel
+  - ipywidgets>=8.0.0
+  - urllib3<2
+  - certifi
+  - ca-certificates
+  - git
+  - jupyterlab
+  - numpy
+  - pandas
+  - scipy
+  - xarray
+  - netcdf4
+  - h5netcdf
+  - geopandas
+  - folium
+  - mapclassify
+  - networkx
+  - pystac
+  - ipycanvas
+  - sidecar
+  - requests
+  - python-dotenv
+  - pip
+  - plotly
+  - pystac-client
+
+  # --- openEO & ESA-APEx Extensions ---
+  - pip:
+      - openeo
+      - git+https://github.com/ESA-APEx/apex_algorithms.git
+      - jupyter-ydoc
+      - jupytergis
+      - jupyterlab-quarto
+      - jupyterlab_open_url_parameter
+      - litegitpuller
+      - my-jupyter-shared-drive
+      - reacttrs
+      - yjs-widgets
+      - ypywidgets
+      - xyzservices
+      - branca
