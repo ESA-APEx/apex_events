@@ -1,7 +1,5 @@
 # APEx: Ready-to-Use Earth Observation Solutions @ 12th CASSINI Hackathon
 
-# APEx: Ready-to-use Earth Observation Solutions at the 12th CASSINI Hackathon
-
 Welcome to the [APEx](https://apex.esa.int/) repository for the [12th CASSINI Hackathon - EU Space for Peace and Resilience](https://www.cassini.eu/hackathons/)! 
 
 We're inviting participants to explore the available resources in the APEx Algorithm Catalogue!
@@ -13,6 +11,7 @@ This Hackathon is a great opportunity to expand your skills, contribute to the E
 ## Key Stages & Events
 
 ### Stage 1: Big Ideas Campaign (2–13 November)
+
 Get inspired and sharpen your skills before the hackathon weekend!
 - **Introductory Session Recording**: [Watch on Vimeo](https://vimeo.com/1243302084?share=copy&fl=sv&fe=ci)
 - **APEx Hands-On Workshop**: **12 November | 14:00 – 15:00 CET**  
@@ -20,9 +19,8 @@ Get inspired and sharpen your skills before the hackathon weekend!
   👉 [Register for the Teams session](https://events.teams.microsoft.com/event/391313b8-84f8-46cc-aba6-57489306818a@78358c89-6d86-4eeb-bee1-9c52711fc036?source=copyLinkLegacyShareLinkDialog)
 
 ### Stage 2: Learning & Development (Hackathon Weekend)
-Explore the **[APEx 101 Notebook](./notebooks/APEx_101.ipynb)** to learn how to search, configure, and execute algorithms using Python and openEO[cite: 1, 4].
 
----
+Explore the **[APEx 101 Notebook](./notebooks/APEx_101.ipynb)** to learn how to search, configure, and execute algorithms using Python and openEO.
 
 ## Environment Setup
 
@@ -37,11 +35,11 @@ The recommended primary environment is **CDSE JupyterLab**. Alternatively, you c
 
 3. **Open Git Tab**: On the left navigation bar, open the Git tab.
    
-   <p align="center"><img src="./img/git_tab.png" alt="Git Tab" width="300"/></p>
+   <p align="center"><img src="./img/git_tab.png" alt="Git Tab" width="700"/></p>
 
 4. **Clone the Repo**: Paste the repository URL to clone it directly into your workspace.
    
-   <p align="center"><img src="./img/clone_repo.png" alt="Clone Repo" width="600"/></p>
+   <p align="center"><img src="./img/clone_repo.png" alt="Clone Repo" width="700"/></p>
 
 5. **Set up the Conda Kernel**: Open a terminal inside JupyterLab and run:
    ```bash
@@ -52,7 +50,7 @@ The recommended primary environment is **CDSE JupyterLab**. Alternatively, you c
    conda activate apex_env
    python -m ipykernel install --user --name apex_env --display-name "Python (APEx)"
 
-6. **Select Kernel**: Open a`pex_101.ipynb`, click the kernel selector in the top-right corner, and choose Python (APEx).
+6. **Select Kernel**: Open `apex_101.ipynb`, click the kernel selector in the top-right corner, and choose Python (APEx).
 
     <p align="center"><img title="Kernel selection" alt="Alt text" src="./img/kernel_sel.png" class="center" ></p>
 
@@ -84,9 +82,11 @@ This Hackathon will take place simultaneously on site across 10 different locati
 
 </div>
 
+Join us! <br>
 
 **No space experience needed**; choose a challenge, use EU space tech, and compete for cash prizes up to 9,000€ (1st: 5,000€, 2nd: 3,000€, 3rd: 1,000€) plus 6 months of mentoring. Be sure to review the [Rules of Contest](https://www.cassini.eu/hackathons/sites/default/files/2024-09/Rules%20of%20Contest%20-%20Cassini%20Hackathons%20Prize%20after%20Corrigendum%201.pdf) before applying.
 
+<br>
+<br>
 
-
-<div align="center"> `Happy apex coding!` 🛰️🚀 </div>
+<div align="center"> <code>Happy apex coding!<code> 🛰️🚀 </div>
