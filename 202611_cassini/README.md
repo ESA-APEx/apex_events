@@ -1,19 +1,14 @@
 # APEx: Ready-to-Use Earth Observation Solutions @ 12th CASSINI Hackathon
 
-Welcome to the [APEx](https://apex.esa.int/) repository for the [12th CASSINI Hackathon: EU Space for Peace and Resilience](https://www.cassini.eu/hackathons/)!
+# APEx: Ready-to-use Earth Observation Solutions at the 12th CASSINI Hackathon
 
-The [APEx Algorithm Catalogue](https://algorithm-catalogue.apex.esa.int/) hosts over 30 ESA-validated Earth Observation algorithms on the [Copernicus Data Space Ecosystem](https://dataspace.copernicus.eu/) (CDSE)[cite: 2, 6]. These enable critical resilience workflows, such as detecting forest disturbances in border areas, monitoring agricultural shifts, and mapping key infrastructure (e.g., photovoltaic farms)[cite: 6].
+Welcome to the [APEx](https://apex.esa.int/) repository for the [12th CASSINI Hackathon - EU Space for Peace and Resilience](https://www.cassini.eu/hackathons/)! 
 
----
+We're inviting participants to explore the available resources in the APEx Algorithm Catalogue!
 
-## Quick Links
+The [APEx Algorithm Catalogue](https://algorithm-catalogue.apex.esa.int/) hosts over 30 algorithms on the [Copernicus Data Space Ecosystem](https://dataspace.copernicus.eu/) (CDSE), enabling applications such as detecting forest disturbances in border areas, monitoring agricultural changes due to conflict, and mapping infrastructure such as photovoltaic farms.
 
-- [APEx Algorithm Catalogue](https://algorithm-catalogue.apex.esa.int/)[cite: 2]
-- [CDSE JupyterLab](https://jupyterhub.dataspace.copernicus.eu/)
-- [APEx Documentation Portal](https://esa-apex.github.io/apex_documentation/)[cite: 2]
-- [CASSINI Big Ideas Campaign](https://www.cassini.eu/hackathons/big-ideas-campaign)
-
----
+This Hackathon is a great opportunity to expand your skills, contribute to the Earth observation community within the EU Space for Peace and Resilience topics. Moreover, we would be glad to have your feedback and help us find more applications for all the algorithms hosted in this great resource!
 
 ## Key Stages & Events
 
@@ -77,6 +72,8 @@ jupyter lab
 
 This Hackathon will take place simultaneously on site across 10 different locations from 27-29 November 2026.
 
+<div align="center">
+
 | Country | Link | Country | Link |
 | :---: | :--- | :---: | :--- |
 | 🇧🇬 **Bulgaria** | [Bulgaria](https://www.cassini.eu/hackathons/bulgaria) | 🇮🇹 **Italy** | [Italy](https://www.cassini.eu/hackathons/italy) |
@@ -85,8 +82,11 @@ This Hackathon will take place simultaneously on site across 10 different locati
 | 🇩🇪 **Germany** | [Germany](https://www.cassini.eu/hackathons/germany) | 🇷🇴 **Romania** | [Romania](http://cassini.eu/hackathons/romania) |
 | 🇮🇪 **Ireland** | [Ireland](https://www.cassini.eu/hackathons/ireland) | 🇺🇦 **Ukraine** | [Ukraine](https://www.cassini.eu/hackathons/ukraine) |
 
+</div>
+
 
 **No space experience needed**; choose a challenge, use EU space tech, and compete for cash prizes up to 9,000€ (1st: 5,000€, 2nd: 3,000€, 3rd: 1,000€) plus 6 months of mentoring. Be sure to review the [Rules of Contest](https://www.cassini.eu/hackathons/sites/default/files/2024-09/Rules%20of%20Contest%20-%20Cassini%20Hackathons%20Prize%20after%20Corrigendum%201.pdf) before applying.
 
 
-<center> `Happy apex coding!` 🛰️🚀 </center> 
+
+<div align="center"> `Happy apex coding!` 🛰️🚀 </div>
