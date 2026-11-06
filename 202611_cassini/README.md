@@ -20,7 +20,7 @@ Get inspired and sharpen your skills before the hackathon weekend!
 
 ### Stage 2: Learning & Development (Hackathon Weekend)
 
-Explore the **[APEx 101 Notebook](.apex_101.ipynb)** to learn how to search, configure, and execute algorithms using Python and openEO.
+Explore the **[APEx 101 Notebook](./apex_101.ipynb)** to learn how to search, configure, and execute algorithms using Python and openEO.
 
 ## Environment Setup
 
