@@ -26,12 +26,15 @@ Explore the **[APEx 101 Notebook](./apex_101.ipynb)** to learn how to search, co
 
 Additionally we have prepared examples for you help you get started with your developments:
 
-## Notebooks
+### Notebooks
+
+<br>
 
 <div align="center">
 
+
 | Notebook | Event | Hackathon topic | Sensors |
-|---|---|---|---|---|
+|---|---|---|---|
 | [flood_detection_kherson](./flood_detection_kherson.ipynb) | Kakhovka dam breach, June 2023 | Crisis response and civil resilience | Sentinel-1, Sentinel-2 |
 | [ship_detection_mykolaiv](./ship_detection_mykolaiv.ipynb) | Port of Mykolaiv, September 2023 | Countering transnational crime (maritime monitoring) | Sentinel-1, Sentinel-2 |
 | [burnt_scar_luhansk](./burnt_scar_luhansk.ipynb) | Siverskyi Donets wildfires, Sept–Oct 2020 | Crisis response and civil resilience | Sentinel-2 |
