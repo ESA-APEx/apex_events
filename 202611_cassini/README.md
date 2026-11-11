@@ -37,7 +37,7 @@ The recommended primary environment is **CDSE JupyterLab**. Alternatively, you c
    
    <p align="center"><img src="./img/git_tab.png" alt="Git Tab" width="700"/></p>
 
-4. **Clone the Repo**: Paste the repository URL to clone it directly into your workspace.
+4. **Clone the Repo**: Paste the repository URL `https://github.com/ESA-APEx/apex_events.git` to clone it directly into your workspace.
    
    <p align="center"><img src="./img/clone_repo.png" alt="Clone Repo" width="700"/></p>
 
