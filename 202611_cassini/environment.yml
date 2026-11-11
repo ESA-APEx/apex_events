@@ -30,6 +30,8 @@ dependencies:
   - pip
   - plotly
   - pystac-client
+  - ipympl
+  - rasterio
 
   # --- openEO & ESA-APEx Extensions ---
   - pip:
