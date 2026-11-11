@@ -1,8 +1,10 @@
 # APEx: Ready-to-Use Earth Observation Solutions @ 12th CASSINI Hackathon
 
-Welcome to the [APEx](https://apex.esa.int/) repository for the [12th CASSINI Hackathon - EU Space for Peace and Resilience](https://www.cassini.eu/hackathons/)! 
+Welcome to the [APEx](https://apex.esa.int/) repository for the [12th CASSINI Hackathon - EU Space for Peace and Resilience](https://www.cassini.eu/hackathons/)!
 
 We're inviting participants to explore the available resources in the APEx Algorithm Catalogue!
+
+The 12th edition asks for space-enabled responses to instability in Ukraine and other conflict-affected regions, built on Galileo and Copernicus. The notebooks here are ready-made Copernicus demos: each runs an [ESA APEx](https://github.com/ESA-APEx/apex_algorithms) openEO algorithm (UDP) on the Copernicus Data Space Ecosystem (CDSE) over a real events in Ukraine.
 
 The [APEx Algorithm Catalogue](https://algorithm-catalogue.apex.esa.int/) hosts over 30 algorithms on the [Copernicus Data Space Ecosystem](https://dataspace.copernicus.eu/) (CDSE), enabling applications such as detecting forest disturbances in border areas, monitoring agricultural changes due to conflict, and mapping infrastructure such as photovoltaic farms.
 
@@ -21,6 +23,24 @@ Get inspired and sharpen your skills before the hackathon weekend!
 ### Stage 2: Learning & Development (Hackathon Weekend)
 
 Explore the **[APEx 101 Notebook](./apex_101.ipynb)** to learn how to search, configure, and execute algorithms using Python and openEO.
+
+Additionally we have prepared examples for you help you get started with your developments:
+
+### Notebooks
+
+<br>
+
+<div align="center">
+
+
+| Notebook | Event | Hackathon topic | Sensors |
+|---|---|---|---|
+| [flood_detection_kherson](./flood_detection_kherson.ipynb) | Kakhovka dam breach, June 2023 | Crisis response and civil resilience | Sentinel-1, Sentinel-2 |
+| [ship_detection_mykolaiv](./ship_detection_mykolaiv.ipynb) | Port of Mykolaiv, September 2023 | Countering transnational crime (maritime monitoring) | Sentinel-1, Sentinel-2 |
+| [burnt_scar_luhansk](./burnt_scar_luhansk.ipynb) | Siverskyi Donets wildfires, Sept–Oct 2020 | Crisis response and civil resilience | Sentinel-2 |
+| [apex_bsi](./apex_bsi.ipynb) | Kakhovka Dam, Kherson, May 2023 – July 2026 | Crisis response and civil resilience | Sentinel-2 |
+
+</div>
 
 ## Environment Setup
 
