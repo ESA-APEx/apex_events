@@ -32,6 +32,7 @@ dependencies:
   - pystac-client
   - ipympl
   - rasterio
+  - h5py
 
   # --- openEO & ESA-APEx Extensions ---
   - pip:
