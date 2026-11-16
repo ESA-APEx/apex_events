@@ -15,10 +15,9 @@ This Hackathon is a great opportunity to expand your skills, contribute to the E
 ### Stage 1: Big Ideas Campaign (2–13 November)
 
 Get inspired and sharpen your skills before the hackathon weekend!
+
 - **Introductory Session Recording**: [Watch on Vimeo](https://vimeo.com/1243302084?share=copy&fl=sv&fe=ci)
-- **APEx Hands-On Workshop**: **12 November | 14:00 – 15:00 CET**  
-  Explore how EO algorithms directly address CASSINI challenge statements.  
-  👉 [Register for the Teams session](https://events.teams.microsoft.com/event/391313b8-84f8-46cc-aba6-57489306818a@78358c89-6d86-4eeb-bee1-9c52711fc036?source=copyLinkLegacyShareLinkDialog)
+- **APEx Hands-On Workshop**: [Watch on Vimeo](https://vimeo.com/1246674914?share=copy&fl=sv&fe=ci)
 
 ### Stage 2: Learning & Development (Hackathon Weekend)
 
