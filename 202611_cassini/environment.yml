@@ -15,6 +15,8 @@ dependencies:
   - numpy
   - pandas
   - scipy
+  - matplotlib
+  - boto3
   - xarray
   - netcdf4
   - h5netcdf
@@ -23,29 +25,33 @@ dependencies:
   - mapclassify
   - networkx
   - pystac
+  - pystac-client
   - ipycanvas
   - sidecar
   - requests
   - python-dotenv
   - pip
   - plotly
-  - pystac-client
   - ipympl
   - rasterio
-  - h5py
+  - leafmap
+  - snappy
+  - fsspec
+  - zarr
+  - aiohttp
 
   # --- openEO & ESA-APEx Extensions ---
   - pip:
-      - openeo
-      - git+https://github.com/ESA-APEx/apex_algorithms.git
-      - jupyter-ydoc
-      - jupytergis
-      - jupyterlab-quarto
-      - jupyterlab_open_url_parameter
-      - litegitpuller
-      - my-jupyter-shared-drive
-      - reacttrs
-      - yjs-widgets
-      - ypywidgets
-      - xyzservices
-      - branca
+    - openeo
+    - git+https://github.com/ESA-APEx/apex_algorithms.git
+    - jupyter-ydoc
+    - jupytergis
+    - jupyterlab-quarto
+    - jupyterlab_open_url_parameter
+    - litegitpuller
+    - my-jupyter-shared-drive
+    - reacttrs
+    - yjs-widgets
+    - ypywidgets
+    - xyzservices
+    - branca
