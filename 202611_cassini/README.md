@@ -36,6 +36,7 @@ Additionally we have prepared examples for you help you get started with your de
 |---|---|---|---|
 | [flood_detection_kherson](./flood_detection_kherson.ipynb) | Kakhovka dam breach, June 2023 | Crisis response and civil resilience | Sentinel-1, Sentinel-2 |
 | [ship_detection_mykolaiv](./ship_detection_mykolaiv.ipynb) | Port of Mykolaiv, September 2023 | Countering transnational crime (maritime monitoring) | Sentinel-1, Sentinel-2 |
+| [apex_sentinel_1_coherence](./apex_sentinel_1_coherence.ipynb) | Petrozavodsk Forest Clearing, May–Sep 2026 | Cybersecurity for space-based strategic enablers (Change detection) | Sentinel-1 |
 | [burnt_scar_luhansk](./burnt_scar_luhansk.ipynb) | Siverskyi Donets wildfires, Sept–Oct 2020 | Crisis response and civil resilience | Sentinel-2 |
 | [apex_bsi](./apex_bsi.ipynb) | Kakhovka Dam, Kherson, May 2023 – July 2026 | Crisis response and civil resilience | Sentinel-2 |
 
