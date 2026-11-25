@@ -39,6 +39,7 @@ Additionally we have prepared examples for you help you get started with your de
 | [apex_sentinel_1_coherence](./apex_sentinel_1_coherence.ipynb) | Petrozavodsk Forest Clearing, May–Sep 2026 | Cybersecurity for space-based strategic enablers (Change detection) | Sentinel-1 |
 | [burnt_scar_luhansk](./burnt_scar_luhansk.ipynb) | Siverskyi Donets wildfires, Sept–Oct 2020 | Crisis response and civil resilience | Sentinel-2 |
 | [apex_bsi](./apex_bsi.ipynb) | Kakhovka Dam, Kherson, May 2023 – July 2026 | Crisis response and civil resilience | Sentinel-2 |
+| [apex_spv](./apex_spv.ipynb) | Beryslav Solar Farm Detection, Kherson, June 2026 | Crisis response and civil resilience | Sentinel-2 |
 
 </div>
 
