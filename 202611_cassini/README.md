@@ -23,6 +23,8 @@ Get inspired and sharpen your skills before the hackathon weekend!
 
 Explore the **[APEx 101 Notebook](./apex_101.ipynb)** to learn how to search, configure, and execute algorithms using Python and openEO.
 
+Use the available [APEx Data Cube Template](./apex_template.ipynb) to run any [APEx Algorithm](https://github.com/ESA-APEx/apex_algorithms) from the [CDSE openEO federation](https://dataspace.copernicus.eu/analyse/openeo) you are interested in.
+
 Additionally we have prepared examples for you help you get started with your developments:
 
 ### Notebooks
